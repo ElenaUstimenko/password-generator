@@ -1,12 +1,12 @@
 
-[![Обложка к видео «password-generator»](./src/image/img.png)](https://youtu.be/-CH5yU_9QsQ)
+[![Обложка к видео «password-generator»](./images/img.png)](https://youtu.be/15NjznohU_g)
 
 
 
 # Password generator
 
 
-Генератор паролей с помощью Jaca Script.
+Генератор случайных паролей с помощью Java Script.
 
 
 P.S.: Нажми на картинку, чтобы посмотреть видео.
